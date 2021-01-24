@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560167929264",
+    "project_id": "ladmu4-u5",
+    "storage_bucket": "ladmu4-u5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560167929264:android:6de5ea95b0eeb8e4548275",
+        "android_client_info": {
+          "package_name": "mx.tecnm.ladm_u4_practica2adrianaflores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560167929264-grafe4cffpsrdp5514p56uf5kn2ajjs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCaz7pZ2dGw1z0ZBGie5f_4v0KtgWnFk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560167929264-grafe4cffpsrdp5514p56uf5kn2ajjs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
